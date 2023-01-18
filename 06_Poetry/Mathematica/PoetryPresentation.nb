@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   2199258,      43709]
-NotebookOptionsPosition[   2180574,      43389]
-NotebookOutlinePosition[   2180966,      43405]
-CellTagsIndexPosition[   2180923,      43402]
+NotebookDataLength[   2199911,      43720]
+NotebookOptionsPosition[   2181126,      43399]
+NotebookOutlinePosition[   2181518,      43415]
+CellTagsIndexPosition[   2181475,      43412]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -43380,9 +43380,19 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ\
   3.876813567782505*^9, 3.876813578635109*^9}, {3.876813661991434*^9, 
   3.876813669427596*^9}, {3.876814541434244*^9, 3.876814549958953*^9}, {
   3.876814671419511*^9, 3.876814679611377*^9}, {3.876814744317195*^9, 
-  3.876814769110498*^9}, {3.876814835178031*^9, 
-  3.876814860801909*^9}},ExpressionUUID->"bd5e14d0-5d6d-475c-a3e0-\
-5964ad1b9f2f"]
+  3.876814769110498*^9}, {3.876814835178031*^9, 3.876814860801909*^9}, {
+  3.883026895972417*^9, 
+  3.883026895977152*^9}},ExpressionUUID->"bd5e14d0-5d6d-475c-a3e0-\
+5964ad1b9f2f"],
+
+Cell["https://web.stanford.edu/class/cs224n/", "Subitem",
+ CellChangeTimes->{{3.876813227150979*^9, 3.876813240631003*^9}, {
+   3.876813567782505*^9, 3.876813578635109*^9}, {3.876813661991434*^9, 
+   3.876813669427596*^9}, {3.876814541434244*^9, 3.876814549958953*^9}, {
+   3.876814671419511*^9, 3.876814679611377*^9}, {3.876814744317195*^9, 
+   3.876814769110498*^9}, {3.876814835178031*^9, 3.876814860801909*^9}, 
+   3.8830268974341297`*^9},ExpressionUUID->"0331bde1-b397-4977-add2-\
+a28453059107"]
 }, Open  ]]
 }, Closed]]
 }, Open  ]]
@@ -43707,7 +43717,8 @@ Cell[2178235, 43341, 362, 6, 32, "Item",ExpressionUUID->"c7a7b584-5eeb-418e-be1d
 Cell[2178600, 43349, 427, 6, 26, "Subitem",ExpressionUUID->"2699ddf0-40a6-491c-9774-181550514434"],
 Cell[2179030, 43357, 492, 7, 26, "Subitem",ExpressionUUID->"94b756bc-0cf1-441a-b66d-5fd0b8e5d902"],
 Cell[2179525, 43366, 493, 7, 26, "Subitem",ExpressionUUID->"a6f5fb40-33b6-4800-9889-d0c6e9faba4a"],
-Cell[2180021, 43375, 513, 9, 26, "Subitem",ExpressionUUID->"bd5e14d0-5d6d-475c-a3e0-5964ad1b9f2f"]
+Cell[2180021, 43375, 562, 10, 26, "Subitem",ExpressionUUID->"bd5e14d0-5d6d-475c-a3e0-5964ad1b9f2f"],
+Cell[2180586, 43387, 500, 7, 26, "Subitem",ExpressionUUID->"0331bde1-b397-4977-add2-a28453059107"]
 }, Open  ]]
 }, Closed]]
 }, Open  ]]
